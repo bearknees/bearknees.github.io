@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,7 +6,7 @@
     <title>Bernice Peña</title>
     <style>
         body {
-            background: linear-gradient(to bottom, #aec6cf, #d9e3f0); /* Gradient from light blue to gray */
+            background: radial-gradient(circle, #aec6cf, #d9e3f0); /* Radial gradient from light blue to gray */
             color: #333333; /* Dark gray text color */
             font-family: Arial, sans-serif;
             margin: 20px; /* Add margin for content */
@@ -64,7 +65,15 @@
         <th>ACTIVITY</th>
         <th>TITLE</th>
     </tr>
-    <!-- Add your activity rows here -->
+    <tr>
+        <td><a href="https://github.com/bearknees/HOA1_Pena">Hands-on Activity 1</a></td>
+        <td>Creating Virtual Machines</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bearknees/HOA2_Pena">Hands-on Activity 2</a></td>
+        <td>SSH Key-Based Authentication and GIT Setup</td>
+    </tr>
+    <!-- Add more activity rows as needed -->
 </table>
 
 </body>
