@@ -1,65 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bernice Peña</title>
-    <style>
-        body {
-            background-color: #f4f4f4; /* Choose your desired background color */
-            font-family: Arial, sans-serif;
-            margin: 20px; /* Add margin for content */
-            padding: 20px; /* Add padding for content */
-        }
+### Hi! I'm Bernice Peña 👋
 
-        h1, h2, h3 {
-            color: #0366d6; /* GitHub link color */
-        }
-
-        p {
-            line-height: 1.6; /* Adjust line height for better readability */
-            color: #24292e; /* GitHub text color */
-        }
-
-        img {
-            border-radius: 8px; /* Add border radius to the image */
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px; /* Add space above the table */
-        }
-
-        th, td {
-            border: 1px solid #dfe2e5; /* GitHub table cell border color */
-            padding: 8px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f6f8fa; /* GitHub table header background color */
-        }
-    </style>
-</head>
-<body>
-
-# Hi! I'm Bernice Peña 👋
-
-## Computer Engineering Student
-
+#### Computer Engineering Student
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/358185/1619783289_335117_url.gif">
 
-## About me:
+<h2 align="left">👩‍💼About me:</h2>
 
-I'm currently a 3rd year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
+- I'm currently a 3rd year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
 
-### Skills:
-JS / C++ / Python / HTML / CSS
+Skills: JS / C++ / Python / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bearknees)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bernice-peña-1b3459246//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/BearKnees)
-
-## Activities
 
 | ACTIVITY         | TITLE      |
 | ------------ | ---------- |
@@ -80,6 +30,3 @@ JS / C++ / Python / HTML / CSS
 | [Hands-on Activity 13](https://github.com/bearknees/HOA13_Pena)   | OpenStack Prerequisite Installation    |
 | [Hands-on Activity 14](https://github.com/bearknees/HOA14_Pena)   | OpenStack Installation (Keystone, Glance, Nova)    |
 | [Hands-on Activity 15](https://github.com/bearknees/HOA15_Pena)   | OpenStack Installation (Neutron, Horizon, Cinder)    |
-
-</body>
-</html>
